@@ -17,8 +17,10 @@
 
 function sayHiToGrandma(string) {
   if (string === string.toLowerCase()) {
-    console.log("I can't hear you!")
+    return x = "I can't hear you!"
   }
 }
  
 sayHiToGrandma('hey');
+
+console.log(x);
