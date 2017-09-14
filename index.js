@@ -1,5 +1,6 @@
 function shout(blah) {
-  return blah.toUpperCase()
+  return x = blah.toUpperCase()
 }
 
 shout('hey');
+console.log(x);
