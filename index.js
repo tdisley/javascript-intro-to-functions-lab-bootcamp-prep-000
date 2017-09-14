@@ -3,4 +3,3 @@ function shout(blah) {
 }
 
 shout('hey');
-console.log(x);
