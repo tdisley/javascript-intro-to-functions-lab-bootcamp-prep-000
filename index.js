@@ -28,3 +28,5 @@ function sayHiToGrandma(string) {
     return
   }
 }
+
+sayHiToGrandma("Huh");
